@@ -1,0 +1,5 @@
+---
+layout: post
+title: "MY FIRST BLOG LETS DO IT BUDDY"
+date: 2025-5-26
+---

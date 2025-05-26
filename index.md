@@ -27,14 +27,8 @@ This is my first attempt at creating a GitHub Page to:
 - Responsive design
 - Basic Markdown formatting
 - Simple navigation
-- Project documentation test
 
 ## 🛠️ How to Use
 1. Clone repository
 ```bash
 git clone https://github.com/Mephistorm/skills-github-pages.git
-
-
-
-
-
