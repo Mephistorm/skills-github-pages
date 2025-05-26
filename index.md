@@ -3,6 +3,14 @@ title: Welcome to my first blog
 ---
 
 
+📝 License
+
+This project is licensed under MIT License.
+
+🙋 Created by [Mephist]
+📧 Contact: mmarrerososa@gmail.com
+💻 GitHub: @Mephistorm
+
 # Welcome to My First GitHub Page! 👋
 
 A simple static website to showcase my journey into web development and GitHub Pages.
@@ -29,10 +37,4 @@ git clone https://github.com/your-username/your-repository.git
 
 
 
-📝 License
 
-This project is licensed under MIT License.
-
-🙋 Created by [Mephist]
-📧 Contact: mmarrerososa@gmail.com
-💻 GitHub: @Mephistorm
