@@ -26,7 +26,7 @@ This is my first attempt at creating a GitHub Page to:
 - Responsive design
 - Basic Markdown formatting
 - Simple navigation
-- Project documentation test
+- Project documentation test.
 
 ## 🛠️ How to Use
 1. Clone repository
